@@ -1,5 +1,4 @@
 class InputHandler {
-
   private Command buttonX;
   private Command buttonY;
   private Command buttonA;
