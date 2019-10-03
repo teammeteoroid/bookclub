@@ -10,7 +10,7 @@ Hello! Welcome to the bookclub. The book we're reading is [Game Programming Patt
 Every Thursday at 21:00 Korea Standard Time (UTC+9) for 30 minutes
 
 1. ~~Command - Sept. 26, 2019~~
-2. Flyweight - Oct. 3, 2019
+2. ~~Flyweight - Oct. 3, 2019~~
 3. Observer - Oct. 10, 2019 
 4. Prototype - Oct. 17, 2019
 5. Singleton - Oct. 24, 2019
