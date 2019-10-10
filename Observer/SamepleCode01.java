@@ -3,8 +3,6 @@ class Physics {
     bool wasOnSurface = entity.isOnSurface();
     entity.accelerate(GRAVITY);
     entity.update();
-    if (wasOnSurface && !entity.isOnSurface()) {
-      notify(entity, EVENT_START_FALL);
-    }
+    if (wasOnSurface && !entity.isOnSurface()) notify(entity, EVENT_START_FALL);
   }
 }

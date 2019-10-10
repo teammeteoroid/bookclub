@@ -4,6 +4,6 @@ class Subject {
     while (observer != NULL) {
       observer.onNotify(entity, event);
       observer = observer.next;
-	}
+    }
   }
 }

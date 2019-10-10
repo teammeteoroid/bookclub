@@ -1,3 +1,3 @@
 class Subject {
-private Observer head;
+  private Observer head;
 }
