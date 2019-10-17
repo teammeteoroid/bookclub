@@ -1,0 +1,1 @@
+Spawner ghostSpawner = new Spawner(spawnGhost);
