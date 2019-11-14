@@ -15,7 +15,7 @@ Every Thursday at 21:00 Korea Standard Time (UTC+9) for 30 minutes
 4. ~~Prototype - Oct. 17, 2019~~
 5. ~~Singleton - Oct. 24, 2019~~
 6. ~~State - Oct. 31, 2019~~
-7. Double Buffer - Nov. 7, 2019
+7. ~~Double Buffer - Nov. 7, 2019~~
 8. Game Loop - Nov. 14, 2019
 9. Update Method - Nov. 21, 2019
 10. Bytecode - Nov. 28, 2019
