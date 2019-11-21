@@ -17,7 +17,7 @@ Every Thursday at 21:00 Korea Standard Time (UTC+9) for 30 minutes
 6. ~~State - Oct. 31, 2019~~
 7. ~~Double Buffer - Nov. 7, 2019~~
 8. ~~Game Loop - Nov. 14, 2019~~
-9. Update Method - Nov. 21, 2019
+9. ~~Update Method - Nov. 21, 2019~~
 10. Bytecode - Nov. 28, 2019
 11. Subclass Sandbox - Dec. 5, 2019
 12. Type Object - Dec. 12, 2019
